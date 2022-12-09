@@ -1,1 +1,17 @@
-Dit is de css
+body
+{
+    background-color: rgb(230, 224, 216);
+}
+
+
+h1 
+{
+color: rgb(105, 25, 90);
+font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+img 
+{
+    width:400px ;
+    height: ;
+}
